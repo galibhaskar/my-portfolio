@@ -9,6 +9,7 @@ import { aboutData } from '../../data/aboutData'
 function About() {
 
     const { theme } = useContext(ThemeContext);
+    // console.log("about rendered")
     return (
         <div className="about" id="about" style={{backgroundColor: theme.secondary}}>
             <div className="line-styling">

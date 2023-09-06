@@ -13,6 +13,17 @@
        url('./assets/fonts/Bestermind/BestermindRegular.ttf')  format('truetype'), 
 }
 
+@font-face {
+  font-family: 'BellinaFlorence';
+  src: url('./assets/fonts/BellinaFlorence/BellinaFlorence.ttf'); 
+  src: url('./assets/fonts/BellinaFlorence/BellinaFlorence.ttf') format('embedded-opentype'), 
+       url('./assets/fonts/BellinaFlorence/BellinaFlorence.ttf')  format('truetype'), 
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 * {
   margin: 0;
   box-sizing: border-box;

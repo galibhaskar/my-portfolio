@@ -2,6 +2,7 @@ export const socialsData = {
     github: 'https://github.com/galibhaskar',
     // facebook: 'https://www.facebook.com/',
     linkedIn: 'https://www.linkedin.com/in/galibhaskar',
+    email:"suryabhaskar.gali@gmail.com"
     // instagram: 'https://www.instagram.com/',
     // codepen: 'https://codepen.io/',
     // twitter: 'https://twitter.com/',

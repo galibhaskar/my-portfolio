@@ -7,6 +7,7 @@
     align-items: center;
     justify-content: center;
     width: 100%;
+    position: fixed;
 }
 
 .navbar--container {
@@ -16,6 +17,19 @@
     width: 100%;
     padding: 0 3rem;
     margin-top: 1rem;
+}
+
+.right--container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    
+}
+
+.change--background{
+    background-color: rgb(84, 95, 196);
 }
 
 .navbar--container > h1 {
@@ -32,6 +46,10 @@
 .drawer > .MuiBackdrop-root {
     background: rgba(33, 33, 33, 0.15) !important;
     backdrop-filter: blur(20px) !important;
+}
+
+.navmenu--change{
+    color: white!important;
 }
 
 
