@@ -16,7 +16,7 @@
     'Sharepoint',
     'Restapi',
     'postman',
-    'Figma',
+    // 'Figma',
     'Git',
     'Azure',
     'AWS',

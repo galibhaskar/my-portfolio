@@ -145,8 +145,8 @@ function Landing() {
           play
           className="landing--img"
           style={{
-            maxWidth: 700,
-            maxHeight: 700,
+            maxWidth: 500,
+            maxHeight: 500,
             // backgroundColor: rgb(84, 95, 196),
           }}
         />
