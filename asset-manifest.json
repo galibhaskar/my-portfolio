@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.81ea4e7b.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.bcfb0be2.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.bcfb0be2.chunk.js.map",
+    "main.js": "/my-portfolio/static/js/main.36515e1e.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.36515e1e.chunk.js.map",
     "runtime-main.js": "/my-portfolio/static/js/runtime-main.e8cde8a9.js",
     "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.e8cde8a9.js.map",
     "static/css/2.493a095e.chunk.css": "/my-portfolio/static/css/2.493a095e.chunk.css",
@@ -135,7 +135,7 @@
     "static/media/ruby.775cc228.svg": "/my-portfolio/static/media/ruby.775cc228.svg",
     "static/media/selenium.f0d42a91.svg": "/my-portfolio/static/media/selenium.f0d42a91.svg",
     "static/media/seven.d5cabb8e.svg": "/my-portfolio/static/media/seven.d5cabb8e.svg",
-    "static/media/sharepoint.4d7c1187.svg": "/my-portfolio/static/media/sharepoint.4d7c1187.svg",
+    "static/media/sharepoint.571ac687.svg": "/my-portfolio/static/media/sharepoint.571ac687.svg",
     "static/media/six.04a89b5f.svg": "/my-portfolio/static/media/six.04a89b5f.svg",
     "static/media/sketch.fa6d7eb5.svg": "/my-portfolio/static/media/sketch.fa6d7eb5.svg",
     "static/media/slick-theme.css": "/my-portfolio/static/media/slick.c94f7671.ttf",
@@ -163,6 +163,6 @@
     "static/css/2.493a095e.chunk.css",
     "static/js/2.98f50863.chunk.js",
     "static/css/main.81ea4e7b.chunk.css",
-    "static/js/main.bcfb0be2.chunk.js"
+    "static/js/main.36515e1e.chunk.js"
   ]
 }
